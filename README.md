@@ -1,4 +1,4 @@
-# Replication materials for: Cahn, Y. (2026) "A-Simulation-Based-Confidence-Distribution-for-Estimating-Equations-Models"
+# Replication materials for: Cahn, Y. (2026) "A Likelihood-Free Fiducial Framework for Estimating Equation Models"
 
 ## Requirements
 
@@ -13,6 +13,6 @@ Required packages:
 
 Run
 
-source("SCD.R")
+source("CGFI.R")
 
 This reproduces all simulation results and figures in the paper.
