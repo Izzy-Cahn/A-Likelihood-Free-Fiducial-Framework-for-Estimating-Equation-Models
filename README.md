@@ -1,4 +1,5 @@
-# Replication materials for: Cahn, Y. (2026) "A Likelihood-Free Fiducial Framework for Estimating Equation Models"
+# Replication materials for: Cahn, Y. (2026) "Generalized Fiducial Inference Through Stochastic Inversion of
+Estimating Equations"
 
 ## Requirements
 
